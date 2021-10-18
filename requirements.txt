@@ -1,4 +1,4 @@
-pytelegrambotapi==3.6.7
+pytelegrambotapi==4.1.1
 schedule
 random_word
 requests

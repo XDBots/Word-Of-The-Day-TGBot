@@ -19,9 +19,10 @@ pip3 install -r requirements.txt
 
 # Requirements : 
 
-- PyTelegramBotAPI(3.6.7)
+- PyTelegramBotAPI(4.1.1)
 - Random_Word
 - Schedule
+- Requests
 
 # Run This project : 
 ```
@@ -36,9 +37,8 @@ Python3 wotd.py
 
 - You May Face 'None-Type' bug will fix that soon if I found the solution.
 
-##Thanks to :
-- [@ArnabXD](https://github.com/ArnabXD) for helping me.
-- 
+### Thanks to :
+- [ArnabXD](https://github.com/ArnabXD) for helping me.
 
 
 
